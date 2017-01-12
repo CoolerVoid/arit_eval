@@ -1,5 +1,5 @@
 # arit_eval
-Arithmetic expression evaluator with anti-overflow resources - Beta
+Arithmetic expression evaluator with anti-overflow resources.
 
 ![Alt text](https://github.com/CoolerVoid/arit_eval/blob/master/doc/quote.png)
 
