@@ -11,14 +11,14 @@ Arithmetic expression evaluator with anti-overflow resources.
 
 ![Alt text](https://github.com/CoolerVoid/arit_eval/blob/master/doc/quote.png)
 
-*To get:
+*To get:*
 
 $ git clone https://github.com/CoolerVoid/arit_eval/ ; cd arit_eval
 
-*To compile:
+*To compile:*
 
 $ make
 
-*To Run:
+*To Run:*
 
 $ bin/arit_eval "(2*8)+380"
