@@ -1,5 +1,6 @@
 CC=gcc
-CFLAGS=-g -Wall
+CFLAGS=-W -Wall -Wextra -O2 -fstack-protector-all
+DFLAGS=-D_FORTIFY_SOURCE=2
 DIR=src/
 DIROUT=bin/
 UNAME_S := $(shell uname -s)
