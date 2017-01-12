@@ -1,7 +1,7 @@
 # arit_eval
 Arithmetic expression evaluator with anti-overflow resources.
 
-# features
+### features
 
 *The Parser follows the order of precedence, this is a sequential hierarchy of nominal importance of items. Most often it is used in the context of people by many organizations and governments, for very formal and state occasions, especially where diplomats are present. It can also be used in the context of decorations, medals and awards. (by wikipedia)
 
